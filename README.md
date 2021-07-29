@@ -28,21 +28,39 @@ The online documentation is your first port of call for definitive information. 
 "I have the students learn Python in our undergraduate and graduate Semantic Web courses. Why? Because basically there's nothing else with the flexibility and as many web libraries," said Prof. James A. Hendler., University of Maryland.
 
 References:
+
 New to Programing: http://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+
 Install Python: http://wiki.python.org/moin/BeginnersGuide/Download
+
 IDEs: http://wiki.python.org/moin/IntegratedDevelopmentEnvironments
+
 Text Editors: http://wiki.python.org/moin/PythonEditors
+
 Introductory Books: http://wiki.python.org/moin/IntroductoryBooks
+
 Code Samples: http://wiki.python.org/moin/BeginnersGuide/Examples
+
 Beginners Guide/Tutorials: http://wiki.python.org/moin/BeginnersGuide/Programmers
+
 Resources in other Languages: https://www.python.org/doc/nonenglish/
+
 Online Documentation: http://docs.python.org/
+
 Brief Tutorial: http://docs.python.org/3/tutorial/
+
 Library Reference: http://docs.python.org/3/library/
+
 Language Reference: http://docs.python.org/3/reference/
+
 ActiveState Python Cookbook: http://code.activestate.com/recipes/langs/python/
+
 Python Package Index: http://pypi.python.org/pypi?%3Aaction=index
+
 Search Page: https://www.python.org/search
+
 Python News Group: news:comp.lang.python
+
 Python FAQ: http://docs.python.org/3/faq/
+
 Developer Area: https://www.python.org/dev/
