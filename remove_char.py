@@ -16,7 +16,7 @@ def remove(string, i):
 # Driver Code 
 if _name_ == '_main_': 
 	
-	string = "nikki"
+	string = "aarushi"
 	
 	# Remove nth index element 
 	i = 5
