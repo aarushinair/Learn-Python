@@ -19,7 +19,7 @@ def smallest_largest_words(str1):
             large = all_words[k];
     return small,large;
 
-str1 = "Write a Java program to sort an array of given integers using Quick sort Algorithm.";  
+str1 = "Write a Python program to sort an array of given integers using Quick sort Algorithm.";  
 print("Original Strings:\n",str1)
 small, large = smallest_largest_words(str1)  
 print("Smallest word: " + small);  
