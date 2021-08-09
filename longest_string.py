@@ -1,5 +1,5 @@
 #Write a Python program to find the longest common sub-string from two given strings
-ef lcs(i, j, count) :  
+def lcs(i, j, count) :  
       
     if (i == 0 or j == 0) :  
         return count    
