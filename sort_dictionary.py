@@ -8,8 +8,7 @@ for key in sorted(color_dict):
 
               
               
-              
-              
+        
              
               
 
