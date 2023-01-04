@@ -21,10 +21,6 @@ if _name_ == "_main_" :
     print(lcs(n, m, 0))
 
     
-    
-    
-    
-    
 👋 Hi, I’m @aarushinair - Aarushi Nair (she/her/ella)
 👀 I’m a Computer Science Engineering Student
 💞️ I’m looking to collaborate on #java, #python, #R, #applicationdevelopment
